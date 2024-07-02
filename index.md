@@ -1,7 +1,7 @@
-# <h1>Hello There 
-# <h2>This is my first assignment in github student pack
+# Hello There 
+## This is my first assignment in github student pack
 
-# <img src="https://octodex.github.com/images/yaktocat.png" alt="image"/>
+ <img src="https://octodex.github.com/images/yaktocat.png" alt="image"/>
 
 ```
 $ git init
