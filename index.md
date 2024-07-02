@@ -1,8 +1,8 @@
 # Hello There 
 ## This is my first assignment in github student pack
 
- <img src="https://octodex.github.com/images/yaktocat.png" alt="image"/>
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+ 
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
