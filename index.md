@@ -1,7 +1,10 @@
-# <h1>Hello There </h1>
-# <h2>This is my first assignment in github student pack</h2>
+# Hello There 
+## This is my first assignment in github student pack
+### This is an `<h1>` header, which is the largest
+#### This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
 
-# <img src="https://octodex.github.com/images/yaktocat.png" alt="image"/>
+<img src="https://octodex.github.com/images/yaktocat.png" alt="image"/>
 
 ```
 $ git init
